@@ -1,0 +1,35 @@
+---
+title: "H2"
+author: "Robson Wilson Silva Pessoa"
+format: html
+editor: visual
+---
+
+## Rotas de Produção
+
+i.  Termoquímico
+ii. Eletroquímico
+iii. Fotobiológico
+iv. Processos petroquímicos
+
+## Fontes de energia e água
+
+a.  Hidrotérmica
+b.  Geotérmica
+c.  Biomassa
+d.  Solar e
+e.  Eólica
+
+Produção de H2 por meio da eletrólise água alcalina.
+
+## Definição do Hidrogênio Verde
+
+A definição do hidrogênio verde pode ser em função da fonte energética ou do balanço da emissão de gases de efeito estufa:
+
+-   Fontes renováveis;
+-   Fontes de energia renováveis com fontes explícitas de poluição do ar, segurança e questões globais do clima.
+-   Fonte de energia renovável com menção explícita de baixos impactos de gases de efeito estufa.
+-   Fontes renováveis ou outra matriz de energia com zero carbono com captura de carbono e sequestro e zero emissão de carbono.
+-   Fontes renováveis ou nucleares.
+-   Fontes (renováveis ou não) com baixa intensidade de emissão de gases de efeito estufa.
+-   Fonte de energia de baixo carbono com baixo impacto ambiental
